@@ -67,11 +67,3 @@ class C(A, B):
 print(C.__mro__)
 print(C())
 
-
-
-
-
-
-
-
-
